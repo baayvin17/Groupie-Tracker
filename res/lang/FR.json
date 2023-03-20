@@ -1,0 +1,61 @@
+{
+  "APP_NAME": "Groopie Tracker",
+  "APP_VERSION": "1.0.0",
+  "APP_AUTHOR": "DABO Liliane, SOUBRAMANIEN Baayvin, WALSH DE SERRANT Albéric",
+  "APP_DESCRIPTION": "Groopie Tracker est un logiciel qui permet de suivre vos artistes préférés et leurs membres.",
+  "MENU_MAIN": [
+    "Fichier",
+    "Rechercher",
+    "Aide"
+  ],
+  "MENU_FILE": [
+    "Préférences",
+    "Quitter"
+  ],
+  "MENU_SEARCH": [
+    "Nom de groupe ou d'artiste",
+    "Nom du membre",
+    "Emplacement",
+    "Date"
+  ],
+  "MENU_HELP": [
+    "À propos"
+  ],
+  "BUTTONS": {
+    "Plus": "Plus",
+    "Rechercher": "Rechercher",
+    "Annuler": "Annuler",
+    "Enregistrer": "Enregistrer",
+    "Fermer": "Fermer"
+  },
+  "SEARCH_BAR": "Rechercher un groupe, un artiste, un lieu ou une date",
+  "PREFERENCES_LANGUAGES": "Langues (un redémarrage est nécessaire pour appliquer les modifications) :",
+  "PREFERENCES_THEME": "Thème :",
+  "ABOUT_APP_NAME": "Nom :",
+  "ABOUT_APP_VERSION": "Version :",
+  "ABOUT_APP_AUTHOR": "Auteurs :",
+  "ABOUT_APP_DESCRIPTION": "Description :",
+  "ABOUT_APP_REPOSITORY": "Dépôt :",
+  "SEARCH_CATEGORY_ARTISTE": "  - Nom du groupe/d'artiste",
+  "SEARCH_CATEGORY_MEMBER": "  - Nom du membre",
+  "SEARCH_CATEGORY_LOCATION": "  - Emplacement",
+  "SEARCH_CATEGORY_CONCERT_DATE": "  - Date de concert",
+  "SEARCH_CATEGORY_CREATION_DATE": " - Date de création",
+  "SEARCH_CATEGORY_ALBUM_DATE": "  - Date de l'album",
+  "SEARCH_RESULTAT_PLACEHORDER": " résultats trouvés",
+  "SEARCH_NO_RESULTAT_PLACEHORDER": "Aucun résultat trouvé",
+  "ARTIST_FIRST_ALBUM": "Premier album :",
+  "ARTIST_CONCERTS": "Concerts :",
+  "FILTRE_BAND": "Nom de groupe ou d'artiste",
+  "FILTRE_MEMBER": "Nom du membre",
+  "FILTRE_LOCATION": "Emplacement",
+  "FILTRE_CONCERT_DATE": "Date de concert",
+  "FILTRE_CREATION_DATE": "Date de création",
+  "FILTRE_ALBUM_DATE": "Date de l'album",
+  "FILTRE_NB_MEMBER": "Nombre de membres :",
+  "FILTRE_MAX_CREATION_DATE": "Date de création maximale :",
+  "FILTRE_MIN_CREATION_DATE": "Date de création minimale :",
+  "FILTRE_MAX_CONCERT_DATE": "Date de concert maximale :",
+  "FILTRE_MIN_CONCERT_DATE": "Date de concert minimale :",
+  "FILTRE_SELECT_LOCATION": "Sélectionner un emplacement :"
+}

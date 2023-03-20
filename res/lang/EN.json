@@ -1,0 +1,61 @@
+{
+  "APP_NAME": "Groopie Tracker",
+  "APP_VERSION": "1.0.0",
+  "APP_AUTHOR": "DABO Liliane, SOUBRAMANIEN Baayvin, WALSH DE SERRANT Albéric",
+  "APP_DESCRIPTION": "Groopie Tracker is a software that allows you to track your favorite artists and their members.",
+  "MENU_MAIN": [
+    "File",
+    "Search",
+    "Help"
+  ],
+  "MENU_FILE": [
+    "Preferences",
+    "Quit"
+  ],
+  "MENU_SEARCH": [
+    "Bands or Artist name",
+    "Member name",
+    "Location",
+    "Date"
+  ],
+  "MENU_HELP": [
+    "About"
+  ],
+  "BUTTONS": {
+    "More": "More",
+    "Search": "Search",
+    "Cancel": "Cancel",
+    "Save": "Save",
+    "Close": "Close"
+  },
+  "SEARCH_BAR": "Search for a group, an artist, a location or a date",
+  "PREFERENCES_LANGUAGES": "Languages (need a restart to apply changes) :",
+  "PREFERENCES_THEME": "Theme :",
+  "ABOUT_APP_NAME": "Name :",
+  "ABOUT_APP_VERSION": "Version :",
+  "ABOUT_APP_AUTHOR": "Authors :",
+  "ABOUT_APP_DESCRIPTION": "Description :",
+  "ABOUT_APP_REPOSITORY": "Repository :",
+  "SEARCH_CATEGORY_ARTISTE": "  - Band/Artist Name",
+  "SEARCH_CATEGORY_MEMBER": "  - Member Name",
+  "SEARCH_CATEGORY_LOCATION": "  - Location",
+  "SEARCH_CATEGORY_CONCERT_DATE": "  - Concert Date",
+  "SEARCH_CATEGORY_CREATION_DATE": " - Creation Date",
+  "SEARCH_CATEGORY_ALBUM_DATE": "  - Album Date",
+  "SEARCH_RESULTAT_PLACEHORDER": " results found",
+  "SEARCH_NO_RESULTAT_PLACEHORDER": "No results found",
+  "ARTIST_FIRST_ALBUM": "First album :",
+  "ARTIST_CONCERTS": "Concerts :",
+  "FILTRE_BAND": "Bands or Artist name",
+  "FILTRE_MEMBER": "Member name",
+  "FILTRE_LOCATION": "Location",
+  "FILTRE_CONCERT_DATE": "Concert Date",
+  "FILTRE_CREATION_DATE": "Creation Date",
+  "FILTRE_ALBUM_DATE": "Album Date",
+  "FILTRE_NB_MEMBER": "Number of members :",
+  "FILTRE_MAX_CREATION_DATE": "Maximum creation date :",
+  "FILTRE_MIN_CREATION_DATE": "Minimum creation date :",
+  "FILTRE_MAX_CONCERT_DATE": "Maximum concert date :",
+  "FILTRE_MIN_CONCERT_DATE": "Minimum concert date :",
+  "FILTRE_SELECT_LOCATION": "Select a location :"
+}

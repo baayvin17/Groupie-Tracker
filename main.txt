@@ -1,0 +1,13 @@
+package main
+
+import (
+	"main/API"
+	start "main/Front"
+)
+
+func main() {
+	//init
+	API.Init_Api()
+	start.Start()
+
+}

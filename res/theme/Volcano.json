@@ -1,0 +1,14 @@
+{
+  "COLOR_BACKGROUND": {"R": 58, "G": 28, "B": 13, "A": 255},
+  "COLOR_FOREGROUND": {"R": 255, "G": 255, "B": 255, "A": 255},
+  "COLOR_SHADOW": {"R": 56, "G": 26, "B": 12, "A": 255},
+  "COLOR_SCROLLBAR": {"R": 150, "G": 75, "B": 0, "A": 255},
+  "COLOR_HOVER": {"R": 219, "G": 146, "B": 53, "A": 255},
+  "COLOR_FOCUS": {"R": 102, "G": 51, "B": 0, "A": 255},
+  "COLOR_DISABLED": {"R": 128, "G": 64, "B": 0, "A": 255},
+  "COLOR_PLACEHOLDER": {"R": 128, "G": 64, "B": 0, "A": 255},
+  "COLOR_INPUT_BACKGROUND": {"R": 33, "G": 15, "B": 7, "A": 255},
+  "COLOR_BUTTON": {"R": 150, "G": 75, "B": 0, "A": 255},
+  "COLOR_PRIMARY": {"R": 255, "G": 94, "B": 0, "A": 255},
+  "COLOR_PRESSED": {"R": 128, "G": 64, "B": 0, "A": 255}
+}
